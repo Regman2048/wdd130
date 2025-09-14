@@ -7,10 +7,15 @@ nav a {
   color: rgb(62, 106, 187);
   padding: 10px;
   display: block;
+  border: 1px solid #000;
 }
 
 h1 {
   color: steelblue;
+}
+
+main {
+  max-width: 840px;
 }
 
 main img {
